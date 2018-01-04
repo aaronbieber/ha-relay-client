@@ -1,0 +1,3 @@
+[main]
+host=server-url.com
+key=random-encryption-key
